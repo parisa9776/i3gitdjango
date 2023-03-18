@@ -9,3 +9,20 @@ git add -A
 git config --global user.email 'example@email.com'
 
 git commit -m 'message'
+
+git log
+
+git reset filename
+
+git checkout -- filename
+
+git branch
+
+git branch branchName
+
+git checkout branchName
+
+git merge branchName
+
+git rm filename
+
