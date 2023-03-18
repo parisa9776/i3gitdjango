@@ -1,0 +1,11 @@
+git init
+
+git status
+
+git add filename
+
+git add -A
+
+git config --global user.email 'example@email.com'
+
+git commit -m 'message'
